@@ -6,3 +6,4 @@
 - [The High Cost of Doing Nothing](https://auth0.com/blog/the-high-cost-of-doing-nothing/) 
 - [unStack Workshop on React.js to Kick Off Soon in Lagos | Articles on things frontend, Software Engineering by Developerayo. Developer Advocate & Software Engineer at VanHack and at Fremer.](https://shodipoayomide.com/unstack-workshop-on-react.js/) 
 - [unStack Workshop on React.js to Kick Off Soon in Lagos | Articles on things frontend, Software Engineering by Developerayo. Developer Advocate & Software Engineer at VanHack and at Fremer.](https://shodipoayomide.com/unstack-workshop-on-react.js/) 
+- [unStack Workshop on React.js to Kick Off Soon in Lagos | Articles on things frontend, Software Engineering by Developerayo. Developer Advocate & Software Engineer at VanHack and at Fremer.](https://shodipoayomide.com/unstack-workshop-on-react.js/) 
