@@ -1,4 +1,7 @@
 # liked-posts
+
+### April 12, 2020 
+- [Developerayo (Shodipo Ayomide)](https://github.com/developerayo) 
 ### April 11, 2020 
 - [Safeguard your blog content in Reactjs and CSS | Articles on things frontend, Software Engineering by Developerayo. Developer Advocate & Software Engineer at VanHack and at Fremer.](https://shodipoayomide.com/safeguard-your-blog-content-in-reactjs-and-css/) 
 - [unStack Workshop on React.js to Kick Off Soon in Lagos | Articles on things frontend, Software Engineering by Developerayo. Developer Advocate & Software Engineer at VanHack and at Fremer.](https://shodipoayomide.com/unstack-workshop-on-react.js/) 
