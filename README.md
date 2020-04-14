@@ -4,6 +4,7 @@
 
 ### April 14, 2020 
 - [Developerayo (Shodipo Ayomide)](https://github.com/Developerayo) 
+- [Login / Telnyx Customer Portal](https://portal.telnyx.com/#/login/sign-in) 
 ### April 13, 2020 
 - [Printing Company in Lagos, Nigeria - Lexoft Media Limited 09080906018](https://lexoft.com.ng/printing/) 
 - [Design and Print Business Cards, Flyers Online in Nigeria](https://printivo.com/) 
