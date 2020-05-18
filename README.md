@@ -10,6 +10,9 @@
 
 
 
+
+### May 18, 2020 
+- [Getting started with Raspberry Pi 3](https://shodipoayomide.com/Getting-started-with-Raspberry-Pi-3) 
 ### May 17, 2020 
 - [Getting started with Raspberry Pi 3](https://shodipoayomide.com/Getting-started-with-Raspberry-Pi-3) 
 ### May 13, 2020 
