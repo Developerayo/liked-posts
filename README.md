@@ -15,6 +15,7 @@
 ### May 20, 2020 
 - [Netflix](https://www.netflix.com/search?q=total%20recall&jbv=70219498&jbp=0&jbr=0) 
 - [Developerayo (Shodipo Ayomide)](https://github.com/Developerayo) 
+- [Stargazers · Developerayo/awesome-cloudinary](https://github.com/Developerayo/awesome-cloudinary/stargazers) 
 ### May 18, 2020 
 - [Getting started with Raspberry Pi 3](https://shodipoayomide.com/Getting-started-with-Raspberry-Pi-3) 
 ### May 17, 2020 
