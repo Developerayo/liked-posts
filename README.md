@@ -16,6 +16,7 @@
 
 ### May 29, 2020 
 - [Developerayo (Shodipo Ayomide)](https://github.com/Developerayo) 
+- [Senior Developer Advocate](http://localhost:8000/speaking) 
 ### May 21, 2020 
 - [Card payments](https://developer.flutterwave.com/v3.0/docs/card-payments-1) 
 ### May 20, 2020 
