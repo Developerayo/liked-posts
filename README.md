@@ -23,6 +23,7 @@
 - [Developerayo (Shodipo Ayomide)](https://github.com/developerayo) 
 - [Developerayo (Shodipo Ayomide)](https://github.com/developerayo) 
 - [Developerayo (Shodipo Ayomide)](https://github.com/developerayo) 
+- [Developerayo (Shodipo Ayomide)](https://github.com/developerayo) 
 ### June 4, 2020 
 - [made small fixes necessary by JaybeeClassical · Pull Request #1 · Developerayo/unstack.africa](https://github.com/Developerayo/unstack.africa/pull/1) 
 ### May 30, 2020 
