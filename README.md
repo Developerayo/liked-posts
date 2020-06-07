@@ -29,6 +29,7 @@
 - [Anchor - The easiest way to make a podcast](https://anchor.fm/dashboard) 
 - [Anchor - The easiest way to make a podcast](https://anchor.fm/dashboard) 
 - [Anchor - The easiest way to make a podcast](https://anchor.fm/dashboard) 
+- [Anchor - The easiest way to make a podcast](https://anchor.fm/dashboard) 
 ### June 4, 2020 
 - [made small fixes necessary by JaybeeClassical · Pull Request #1 · Developerayo/unstack.africa](https://github.com/Developerayo/unstack.africa/pull/1) 
 ### May 30, 2020 
