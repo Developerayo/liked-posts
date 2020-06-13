@@ -24,6 +24,7 @@
 - [Developerayo (Shodipo Ayomide)](https://github.com/Developerayo) 
 - [Developerayo (Shodipo Ayomide)](https://github.com/Developerayo) 
 - [Developerayo (Shodipo Ayomide)](https://github.com/Developerayo) 
+- [developerayo | Git Awards](http://git-awards.com/users/developerayo) 
 ### June 10, 2020 
 - [Developerayo (Shodipo Ayomide)](https://github.com/Developerayo) 
 - [Developerayo (Shodipo Ayomide)](https://github.com/Developerayo) 
