@@ -24,6 +24,7 @@
 ### June 17, 2020 
 - [Speaking | Shodipo Ayomide](https://speaking.shodipoayomide.com/) 
 - [Speaking | Shodipo Ayomide](https://speaking.shodipoayomide.com/) 
+- [Speaking | Shodipo Ayomide](https://speaking.shodipoayomide.com/) 
 ### June 15, 2020 
 - [Developerayo (Shodipo Ayomide)](https://github.com/Developerayo) 
 - [Developerayo (Shodipo Ayomide)](https://github.com/Developerayo) 
