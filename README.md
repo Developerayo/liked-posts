@@ -21,6 +21,9 @@
 
 
 
+
+### June 20, 2020 
+- [Developerayo (Shodipo Ayomide)](https://github.com/Developerayo) 
 ### June 17, 2020 
 - [Speaking | Shodipo Ayomide](https://speaking.shodipoayomide.com/) 
 - [Speaking | Shodipo Ayomide](https://speaking.shodipoayomide.com/) 
