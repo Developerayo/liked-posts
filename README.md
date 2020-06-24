@@ -27,6 +27,7 @@
 ### June 24, 2020 
 - [Developerayo (Shodipo Ayomide)](https://github.com/Developerayo) 
 - [Developerayo (Shodipo Ayomide)](https://github.com/Developerayo) 
+- [Developerayo (Shodipo Ayomide)](https://github.com/Developerayo) 
 ### June 21, 2020 
 - [unStack Africa - Open-Source Technical Hands-on Workshops](http://localhost:3000/) 
 - [unStack Africa - Open-Source Technical Hands-on Workshops](http://localhost:3000/) 
