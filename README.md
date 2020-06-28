@@ -24,6 +24,9 @@
 
 
 
+
+### June 28, 2020 
+- [(2) Terminal : Change File Permissions(Mac) - YouTube](https://www.youtube.com/watch?v=OV7ubQGdVh0) 
 ### June 24, 2020 
 - [Developerayo (Shodipo Ayomide)](https://github.com/Developerayo) 
 - [Developerayo (Shodipo Ayomide)](https://github.com/Developerayo) 
