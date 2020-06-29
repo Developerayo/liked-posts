@@ -25,6 +25,9 @@
 
 
 
+
+### June 29, 2020 
+- [sounds - Deployment Overview](https://vercel.com/developerayo/sounds/omkjl3an3) 
 ### June 28, 2020 
 - [(2) Terminal : Change File Permissions(Mac) - YouTube](https://www.youtube.com/watch?v=OV7ubQGdVh0) 
 - [(2) Terminal : Change File Permissions(Mac) - YouTube](https://www.youtube.com/watch?v=OV7ubQGdVh0) 
