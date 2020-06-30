@@ -30,6 +30,7 @@
 ### June 30, 2020 
 - [Developerayo (Shodipo Ayomide)](https://github.com/Developerayo) 
 - [Developerayo (Shodipo Ayomide)](https://github.com/Developerayo) 
+- [Developerayo (Shodipo Ayomide)](https://github.com/Developerayo) 
 ### June 29, 2020 
 - [sounds - Deployment Overview](https://vercel.com/developerayo/sounds/omkjl3an3) 
 - [sounds - Deployment Overview](https://vercel.com/developerayo/sounds/omkjl3an3) 
