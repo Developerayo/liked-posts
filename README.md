@@ -34,6 +34,7 @@
 - [Dev Jobs - Vue.js](https://madewithvuejs.com/jobs) 
 - [Displays](https://developer.apple.com/library/archive/documentation/DeviceInformation/Reference/iOSDeviceCompatibility/Displays/Displays.html) 
 - [Displays](https://developer.apple.com/library/archive/documentation/DeviceInformation/Reference/iOSDeviceCompatibility/Displays/Displays.html) 
+- [Displays](https://developer.apple.com/library/archive/documentation/DeviceInformation/Reference/iOSDeviceCompatibility/Displays/Displays.html) 
 ### July 2, 2020 
 - [Developerayo (Shodipo Ayomide)](https://github.com/Developerayo) 
 ### July 1, 2020 
