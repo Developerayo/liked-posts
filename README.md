@@ -29,6 +29,9 @@
 
 
 
+
+### July 4, 2020 
+- [Dev Jobs - Vue.js](https://madewithvuejs.com/jobs) 
 ### July 2, 2020 
 - [Developerayo (Shodipo Ayomide)](https://github.com/Developerayo) 
 ### July 1, 2020 
