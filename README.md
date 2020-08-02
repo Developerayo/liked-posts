@@ -32,6 +32,9 @@
 
 
 
+
+### August 2, 2020 
+- [Netflix](https://www.netflix.com/watch/80190402?trackId=155573560) 
 ### July 31, 2020 
 - [Developerayo (Shodipo Ayomide)](https://github.com/Developerayo) 
 - [Developerayo (Shodipo Ayomide)](https://github.com/Developerayo) 
