@@ -38,6 +38,7 @@
 - [Netflix](https://www.netflix.com/watch/80190402?trackId=155573560) 
 - [Netflix](https://www.netflix.com/watch/80190402?trackId=155573560) 
 - [Write The Code You Need Today | Dominus Kelvin](https://dominuskelvin.dev/blog/write-the-code-you-need-today/) 
+- [Write The Code You Need Today | Dominus Kelvin](https://dominuskelvin.dev/blog/write-the-code-you-need-today/) 
 ### July 31, 2020 
 - [Developerayo (Shodipo Ayomide)](https://github.com/Developerayo) 
 - [Developerayo (Shodipo Ayomide)](https://github.com/Developerayo) 
