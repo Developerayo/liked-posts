@@ -33,6 +33,9 @@
 
 
 
+
+### August 5, 2020 
+- [Open UP Summit 2020 Tickets, Sat, Sep 12, 2020 at 9:00 AM | Eventbrite](https://www.eventbrite.com/e/open-up-summit-2020-tickets-112412113658) 
 ### August 2, 2020 
 - [Netflix](https://www.netflix.com/watch/80190402?trackId=155573560) 
 - [Netflix](https://www.netflix.com/watch/80190402?trackId=155573560) 
