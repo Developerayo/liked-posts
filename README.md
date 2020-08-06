@@ -34,6 +34,9 @@
 
 
 
+
+### August 6, 2020 
+- [Developerayo (Shodipo Ayomide)](https://github.com/Developerayo) 
 ### August 5, 2020 
 - [Open UP Summit 2020 Tickets, Sat, Sep 12, 2020 at 9:00 AM | Eventbrite](https://www.eventbrite.com/e/open-up-summit-2020-tickets-112412113658) 
 - [Open UP Summit 2020 Tickets, Sat, Sep 12, 2020 at 9:00 AM | Eventbrite](https://www.eventbrite.com/e/open-up-summit-2020-tickets-112412113658) 
