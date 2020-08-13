@@ -36,6 +36,9 @@
 
 
 
+
+### August 13, 2020 
+- [domitriusclark/mdnext: The opinionated starter for MDX based Next apps for blogs, documentation, and more.](https://github.com/domitriusclark/mdnext) 
 ### August 7, 2020 
 - [Developerayo (Shodipo Ayomide)](https://github.com/Developerayo) 
 ### August 6, 2020 
