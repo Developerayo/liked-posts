@@ -40,6 +40,7 @@
 
 ### August 19, 2020 
 - [A thread written by @developerayo: "Every Company have three structures for standups, Daily Standup: this usually happens in small scale [...]"](https://threader.app/thread/1296055546060181504) 
+- [A thread written by @developerayo: "Every Company have three structures for standups, Daily Standup: this usually happens in small scale [...]"](https://threader.app/thread/1296055546060181504) 
 ### August 13, 2020 
 - [domitriusclark/mdnext: The opinionated starter for MDX based Next apps for blogs, documentation, and more.](https://github.com/domitriusclark/mdnext) 
 - [domitriusclark/mdnext: The opinionated starter for MDX based Next apps for blogs, documentation, and more.](https://github.com/domitriusclark/mdnext) 
