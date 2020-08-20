@@ -41,6 +41,7 @@
 
 ### August 20, 2020 
 - [Developerayo (Shodipo Ayomide)](https://github.com/Developerayo) 
+- [Developerayo (Shodipo Ayomide)](https://github.com/Developerayo) 
 ### August 19, 2020 
 - [A thread written by @developerayo: "Every Company have three structures for standups, Daily Standup: this usually happens in small scale [...]"](https://threader.app/thread/1296055546060181504) 
 - [A thread written by @developerayo: "Every Company have three structures for standups, Daily Standup: this usually happens in small scale [...]"](https://threader.app/thread/1296055546060181504) 
