@@ -39,6 +39,9 @@
 
 
 
+
+### August 21, 2020 
+- [Developerayo (Shodipo Ayomide)](https://github.com/Developerayo) 
 ### August 20, 2020 
 - [Developerayo (Shodipo Ayomide)](https://github.com/Developerayo) 
 - [Developerayo (Shodipo Ayomide)](https://github.com/Developerayo) 
