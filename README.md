@@ -47,6 +47,7 @@
 ### August 30, 2020 
 - [Developerayo (Shodipo Ayomide)](https://github.com/developerayo) 
 - [React Summit – The Biggest React Conference Worldwide](https://reactsummit.com/) 
+- [unStack Africa - Open-Source Technical Hands-on Workshops](http://localhost:3000/#schedule) 
 ### August 27, 2020 
 - [Developerayo (Shodipo Ayomide)](https://github.com/Developerayo) 
 ### August 25, 2020 
