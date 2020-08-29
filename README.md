@@ -49,6 +49,7 @@
 - [React Summit – The Biggest React Conference Worldwide](https://reactsummit.com/) 
 - [unStack Africa - Open-Source Technical Hands-on Workshops](http://localhost:3000/#schedule) 
 - [ReactATL Meetup | Meetup](https://www.meetup.com/React-ATL/events/272675044/) 
+- [ReactATL Meetup | Meetup](https://www.meetup.com/React-ATL/events/272675044/) 
 ### August 27, 2020 
 - [Developerayo (Shodipo Ayomide)](https://github.com/Developerayo) 
 ### August 25, 2020 
