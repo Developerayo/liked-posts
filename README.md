@@ -46,6 +46,7 @@
 
 ### August 30, 2020 
 - [Developerayo (Shodipo Ayomide)](https://github.com/developerayo) 
+- [React Summit – The Biggest React Conference Worldwide](https://reactsummit.com/) 
 ### August 27, 2020 
 - [Developerayo (Shodipo Ayomide)](https://github.com/Developerayo) 
 ### August 25, 2020 
