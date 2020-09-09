@@ -49,6 +49,9 @@
 
 
 
+
+### September 10, 2020 
+- [Announcing the Next Generation Cloudinary JavaScript SDKs](https://cloudinary.com/blog/get_ready_for_cloudinary_s_next_generation_javascript_sdks) 
 ### September 9, 2020 
 - [Developerayo (Shodipo Ayomide)](https://github.com/Developerayo) 
 - [Developerayo (Shodipo Ayomide)](https://github.com/Developerayo) 
