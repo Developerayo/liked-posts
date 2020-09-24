@@ -58,6 +58,9 @@
 
 
 
+
+### September 24, 2020 
+- [Design From The Dimension of Open-Source - Shodipo Ayomide - React Finland - Speaker Deck](https://speakerdeck.com/developerayo/design-from-the-dimension-of-open-source-shodipo-ayomide-react-finland) 
 ### September 22, 2020 
 - [Developerayo (Shodipo Ayomide)](https://github.com/Developerayo) 
 - [Developerayo (Shodipo Ayomide)](https://github.com/Developerayo) 
