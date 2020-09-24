@@ -61,6 +61,7 @@
 
 ### September 24, 2020 
 - [Design From The Dimension of Open-Source - Shodipo Ayomide - React Finland - Speaker Deck](https://speakerdeck.com/developerayo/design-from-the-dimension-of-open-source-shodipo-ayomide-react-finland) 
+- [Edem Kumodzi 🇬🇭🇹🇬 on Twitter: "Who are the people who built https://t.co/d4DKXQLrrz ? I just want to come and learn work abeg." / Twitter](https://twitter.com/edemkumodzi/status/1308755264896598017) 
 ### September 22, 2020 
 - [Developerayo (Shodipo Ayomide)](https://github.com/Developerayo) 
 - [Developerayo (Shodipo Ayomide)](https://github.com/Developerayo) 
