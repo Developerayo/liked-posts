@@ -63,6 +63,7 @@
 
 ### September 29, 2020 
 - [Home / Twitter](https://twitter.com/home) 
+- [Developerayo (Shodipo Ayomide)](https://github.com/Developerayo) 
 ### September 26, 2020 
 - [Abeg](https://github.com/abeg-app) 
 ### September 24, 2020 
