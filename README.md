@@ -65,6 +65,9 @@
 
 
 
+
+### October 10, 2020 
+- [Developerayo (Shodipo Ayomide)](https://github.com/Developerayo) 
 ### October 5, 2020 
 - [Home / Twitter](https://twitter.com/home) 
 ### October 3, 2020 
