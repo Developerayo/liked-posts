@@ -74,6 +74,7 @@
 
 ### October 25, 2020 
 - [Community Manager, Corporate Engineering - Google - Kirkland, WA, USA - Austin, TX, USA - Google Careers](https://careers.google.com/jobs/results/87995693915873990-community-manager-corporate-engineering/) 
+- [Community Manager, Corporate Engineering - Google - Kirkland, WA, USA - Austin, TX, USA - Google Careers](https://careers.google.com/jobs/results/87995693915873990-community-manager-corporate-engineering/) 
 ### October 24, 2020 
 - [Developerayo (Shodipo Ayomide)](https://github.com/Developerayo) 
 - [Developerayo (Shodipo Ayomide)](https://github.com/Developerayo) 
