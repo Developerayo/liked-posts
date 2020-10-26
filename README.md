@@ -72,6 +72,9 @@
 
 
 
+
+### October 26, 2020 
+- [(1) Shodipo Ayomide | Facebook](https://web.facebook.com/shodipo.ayomide) 
 ### October 25, 2020 
 - [Community Manager, Corporate Engineering - Google - Kirkland, WA, USA - Austin, TX, USA - Google Careers](https://careers.google.com/jobs/results/87995693915873990-community-manager-corporate-engineering/) 
 - [Community Manager, Corporate Engineering - Google - Kirkland, WA, USA - Austin, TX, USA - Google Careers](https://careers.google.com/jobs/results/87995693915873990-community-manager-corporate-engineering/) 
