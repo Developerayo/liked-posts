@@ -73,6 +73,9 @@
 
 
 
+
+### October 27, 2020 
+- [unStack Africa - Open-Source Technical Hands-on Workshops](http://localhost:3000/) 
 ### October 26, 2020 
 - [(1) Shodipo Ayomide | Facebook](https://web.facebook.com/shodipo.ayomide) 
 ### October 25, 2020 
