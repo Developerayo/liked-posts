@@ -74,6 +74,9 @@
 
 
 
+
+### November 2, 2020 
+- [Developerayo (Shodipo Ayomide)](https://github.com/developerayo) 
 ### October 27, 2020 
 - [unStack Africa - Open-Source Technical Hands-on Workshops](http://localhost:3000/) 
 ### October 26, 2020 
