@@ -75,6 +75,9 @@
 
 
 
+
+### November 5, 2020 
+- [Developerayo (Shodipo Ayomide)](https://github.com/Developerayo) 
 ### November 2, 2020 
 - [Developerayo (Shodipo Ayomide)](https://github.com/developerayo) 
 ### October 27, 2020 
