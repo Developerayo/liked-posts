@@ -76,6 +76,9 @@
 
 
 
+
+### November 6, 2020 
+- [Developerayo/unstack.africa](https://github.com/Developerayo/unstack.africa) 
 ### November 5, 2020 
 - [Developerayo (Shodipo Ayomide)](https://github.com/Developerayo) 
 ### November 2, 2020 
