@@ -77,6 +77,9 @@
 
 
 
+
+### November 14, 2020 
+- [The Ideal Community Model: Lessons Learned - Speaker Deck](https://speakerdeck.com/developerayo/the-ideal-community-model-lessons-learned) 
 ### November 6, 2020 
 - [Developerayo/unstack.africa](https://github.com/Developerayo/unstack.africa) 
 ### November 5, 2020 
