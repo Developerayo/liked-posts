@@ -82,6 +82,7 @@
 ### November 15, 2020 
 - [Tsukuyomi - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=developerayo.Tsukuyomi) 
 - [Tsukuyomi - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=developerayo.Tsukuyomi) 
+- [Manage Extensions | Visual Studio Marketplace](https://marketplace.visualstudio.com/manage/publishers/developerayo) 
 ### November 14, 2020 
 - [The Ideal Community Model: Lessons Learned - Speaker Deck](https://speakerdeck.com/developerayo/the-ideal-community-model-lessons-learned) 
 - [The Ideal Community Model: Lessons Learned - Speaker Deck](https://speakerdeck.com/developerayo/the-ideal-community-model-lessons-learned) 
