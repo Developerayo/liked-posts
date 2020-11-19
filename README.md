@@ -81,6 +81,9 @@
 
 
 
+
+### November 20, 2020 
+- [Developerayo (Shodipo Ayomide)](https://github.com/Developerayo) 
 ### November 19, 2020 
 - [Tsukuyomi - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=developerayo.Tsukuyomi) 
 - [Tsukuyomi - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=developerayo.Tsukuyomi) 
