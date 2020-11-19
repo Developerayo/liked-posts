@@ -90,6 +90,7 @@
 - [Manage Extensions | Visual Studio Marketplace](https://marketplace.visualstudio.com/manage/publishers/developerayo) 
 - [Manage Extensions | Visual Studio Marketplace](https://marketplace.visualstudio.com/manage/publishers/developerayo) 
 - [Manage Extensions | Visual Studio Marketplace](https://marketplace.visualstudio.com/manage/publishers/developerayo) 
+- [Account Settings](https://www.crunchbase.com/account) 
 ### November 16, 2020 
 - [Cloudinary Management Console - Media Library](https://cloudinary.com/console/c-69742a5409fe87eddebf3d5fed65da/media_library/folders/home?kind=all) 
 - [Cloudinary Management Console - Media Library](https://cloudinary.com/console/c-69742a5409fe87eddebf3d5fed65da/media_library/folders/home?kind=all) 
