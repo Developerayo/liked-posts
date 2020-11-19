@@ -89,6 +89,7 @@
 - [tsukuyomi vscode - Google Search](https://www.google.com/search?rlz=1C5CHFA_enNG891NG891&sxsrf=ALeKk001vqqBUf6YVPh_mDkfLn12dDEA8w%3A1605700933668&ei=RQ21X5aoKO6M1fAP7daooA8&q=tsukuyomi+vscode&oq=tsukuyomi+vscode&gs_lcp=CgZwc3ktYWIQAzIECCMQJzoFCCEQoAE6CAgAEMkDEJECOgcIABAUEIcCOgIIADoFCAAQyQM6BAgAEApQzRFY0h9g8yBoAHAAeACAAd8DiAG5EpIBBzItMS41LjGYAQCgAQGqAQdnd3Mtd2l6wAEB&sclient=psy-ab&ved=0ahUKEwjW3pCOhoztAhVuRhUIHW0rCvQQ4dUDCA0&uact=5) 
 - [Manage Extensions | Visual Studio Marketplace](https://marketplace.visualstudio.com/manage/publishers/developerayo) 
 - [Manage Extensions | Visual Studio Marketplace](https://marketplace.visualstudio.com/manage/publishers/developerayo) 
+- [Manage Extensions | Visual Studio Marketplace](https://marketplace.visualstudio.com/manage/publishers/developerayo) 
 ### November 16, 2020 
 - [Cloudinary Management Console - Media Library](https://cloudinary.com/console/c-69742a5409fe87eddebf3d5fed65da/media_library/folders/home?kind=all) 
 - [Cloudinary Management Console - Media Library](https://cloudinary.com/console/c-69742a5409fe87eddebf3d5fed65da/media_library/folders/home?kind=all) 
