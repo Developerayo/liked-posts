@@ -85,6 +85,7 @@
 
 ### November 22, 2020 
 - [GitHub](https://github.com/) 
+- [Developerayo/tsukuyomi-vscode-theme: Tsukuyomi: A VSCode theme for Naruto & Anime lovers](https://github.com/Developerayo/tsukuyomi-vscode-theme) 
 ### November 20, 2020 
 - [Developerayo (Shodipo Ayomide)](https://github.com/Developerayo) 
 ### November 19, 2020 
