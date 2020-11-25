@@ -83,6 +83,9 @@
 
 
 
+
+### November 25, 2020 
+- [Schedule – day 2 – jLove conference](https://jlove.konfy.care/schedule-day-2/) 
 ### November 22, 2020 
 - [GitHub](https://github.com/) 
 - [Developerayo/tsukuyomi-vscode-theme: Tsukuyomi: A VSCode theme for Naruto & Anime lovers](https://github.com/Developerayo/tsukuyomi-vscode-theme) 
