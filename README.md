@@ -87,6 +87,9 @@
 
 
 
+
+### December 4, 2020 
+- [Ambassador Labs - Developer Advocate](https://jobs.lever.co/AmbassadorLabs/47fa0fbb-892c-4e87-8acf-1cd9f4155a41) 
 ### November 30, 2020 
 - [Tsukuyomi - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=developerayo.Tsukuyomi) 
 ### November 28, 2020 
