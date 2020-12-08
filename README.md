@@ -91,6 +91,7 @@
 
 ### December 8, 2020 
 - [imagemin-pngquant - npm](https://www.npmjs.com/package/imagemin-pngquant) 
+- [imagemin-optipng - npm](https://www.npmjs.com/package/imagemin-optipng) 
 ### December 4, 2020 
 - [Ambassador Labs - Developer Advocate](https://jobs.lever.co/AmbassadorLabs/47fa0fbb-892c-4e87-8acf-1cd9f4155a41) 
 ### November 30, 2020 
