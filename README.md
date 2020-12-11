@@ -89,6 +89,9 @@
 
 
 
+
+### December 11, 2020 
+- [wesbos/check-my-hair: Hair!](https://github.com/wesbos/check-my-hair) 
 ### December 8, 2020 
 - [imagemin-pngquant - npm](https://www.npmjs.com/package/imagemin-pngquant) 
 - [imagemin-optipng - npm](https://www.npmjs.com/package/imagemin-optipng) 
