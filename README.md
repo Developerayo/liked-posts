@@ -90,6 +90,9 @@
 
 
 
+
+### December 12, 2020 
+- [Deploy details | imagehive](https://app.netlify.com/sites/imagehive/deploys/5fd14d5e9f4b510129ca6ccf) 
 ### December 11, 2020 
 - [wesbos/check-my-hair: Hair!](https://github.com/wesbos/check-my-hair) 
 - [wesbos/check-my-hair: Hair!](https://github.com/wesbos/check-my-hair) 
