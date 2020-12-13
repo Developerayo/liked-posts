@@ -94,6 +94,7 @@
 
 ### December 13, 2020 
 - [Tsukuyomi - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=developerayo.Tsukuyomi) 
+- [Tsukuyomi - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=developerayo.Tsukuyomi) 
 ### December 12, 2020 
 - [Deploy details | imagehive](https://app.netlify.com/sites/imagehive/deploys/5fd14d5e9f4b510129ca6ccf) 
 ### December 11, 2020 
