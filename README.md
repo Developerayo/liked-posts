@@ -97,6 +97,9 @@
 
 
 
+
+### February 23, 2021 
+- [kirtithorat/carrierwave-crop: Carrierwave extension to crop uploaded images using Jcrop plugin with preview.](https://github.com/kirtithorat/carrierwave-crop) 
 ### February 12, 2021 
 - [Shodipo Ayomide](https://shodipoayomide.com/) 
 - [Shodipo Ayomide](https://shodipoayomide.com/) 
