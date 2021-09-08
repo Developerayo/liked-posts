@@ -99,6 +99,9 @@
 
 
 
+
+### September 8, 2021 
+- [Watch Boruto: Naruto Next Generations Episode 213 English Subbed at Gogoanime](https://gogoanime.pe/boruto-naruto-next-generations-episode-213) 
 ### March 10, 2021 
 - [Developerayo (Shodipo Ayomide)](https://github.com/Developerayo) 
 ### February 23, 2021 
